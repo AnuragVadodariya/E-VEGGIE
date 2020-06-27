@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+.main{
+    height: 50%;
+    width: 27%;
+    margin-top: 8%;
+    margin-left: 37%;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+    padding:50px 5px;
+    background: #4ED6EC;
+    text-align: center;
+    border: solid;
+    border-radius: 30px;
+}
+.div_header{
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"; 
+    font-size: 1.75em;
+    font-weight: 800;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    
+}
+.elements{
+    border-radius: 15px;
+    padding: 2%;
+}
+/*button:hover{
+    color: #16D820;
+    background: #fff;
+}
+*/
